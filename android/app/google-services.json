@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "38022655106",
+    "project_id": "employeepro-d2da8",
+    "storage_bucket": "employeepro-d2da8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38022655106:android:6e019235a4e7cb65b7589b",
+        "android_client_info": {
+          "package_name": "com.employeepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38022655106-nt942dvee5kahbe1jcan363veqn44qse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.employeepro",
+            "certificate_hash": "84d77c193d79ca06693679e8c6753b1344b44170"
+          }
+        },
+        {
+          "client_id": "38022655106-3qfafkrto474jqtl5rmml1qgl2dvhv07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj5XcvBVHi6OoAIP1Ha00_iFekhMvhPfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38022655106-3qfafkrto474jqtl5rmml1qgl2dvhv07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
